@@ -1,0 +1,11 @@
+swaybg
+swayidle
+Waybar
+mako
+foot
+wofi
+wlogout
+wf-shell
+grimshot
+nwg-look
+nwg-launchers
